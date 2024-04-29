@@ -29,8 +29,6 @@ Install the APK on your Android device by following the on-screen instructions.
 Running the App
 Once installed, open the Tamagotchi app on your Android device. Follow the in-app instructions to set up your virtual pet and begin caring for it.
 
-Screenshots
-
 Technical Details
 The Tamagotchi app is developed using Android Studio and Kotlin programming language. External libraries for animations and UI enhancements are integrated to enrich the app's visual appeal and functionality. Kotlin's concise syntax and robust features enable efficient development and maintenance of the app. The use of modern technologies ensures compatibility, performance, and a seamless user experience across various Android devices.
 
@@ -47,12 +45,8 @@ User feedback and suggestions play a crucial role in shaping the app's developme
 
 Acknowledgements
 The development of the Tamagotchi app is supported by various resources and collaborations:
-
-Animated UI Library - Enhancing the visual appeal of the app through animated elements.
-Pet Sprites by Artist Name - Providing adorable pet sprites for the virtual pet experience.
+Enhancing the visual appeal of the app through animated elements.
 Beta testers and contributors who provided valuable feedback and insights during the app's development.
-Contact Information
-For inquiries, feedback, or collaboration opportunities related to the Tamagotchi app, please contact me at tamagotchiapp@example.com. Visit the Tamagotchi GitHub repository for the latest updates and contributions: Tamagotchi App GitHub.
 
 Conclusion
 Thank you for exploring My Tamagotchi App! I hope this digital pet experience brings joy and entertainment to your daily routine. Stay tuned for exciting updates and new features as we continue to enhance the app's functionality and user experience. Your support and enthusiasm are greatly appreciated, and I look forward to hearing from you and improving the app based on your valuable feedback.
