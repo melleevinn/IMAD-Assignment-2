@@ -1,7 +1,8 @@
 
 YouTube Link
 
-GitHub Link
+GitHub Link  https://github.com/melleevinn/IMAD-Assignment-2
+YouTube Link https://youtu.be/kQYPnApQzV8?feature=shared
 
 
 My Tamagotchi App README
